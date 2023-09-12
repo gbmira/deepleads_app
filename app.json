@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "deepleads_app2",
+    "slug": "deepleads_app2",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
